@@ -1,7 +1,7 @@
 {
-  "name": "wedding-backend",
+  "name": "tech-notes",
   "version": "1.0.0",
-  "description": "婚禮專用後端程式",
+  "description": "教學影片實作程式",
   "main": "server.js",
   "scripts": {
     "start": "node server",
